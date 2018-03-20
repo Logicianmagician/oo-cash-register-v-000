@@ -9,7 +9,7 @@ attr_accessor :total, :discount, :items
  end
 
  def add_item(title, price)
-   self.total += amount
+   self.total += price
  end
 
 
