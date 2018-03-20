@@ -20,6 +20,6 @@ attr_accessor :total, :discount, :items
       "There is no discount to apply."
     end
   end
- 
+
 
 end
