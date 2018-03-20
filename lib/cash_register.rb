@@ -1,4 +1,4 @@
-class CashRegister 
+class CashRegister
 
 attr_accessor :total
 
@@ -7,6 +7,7 @@ attr_accessor :total
  end
 
  def total
+   @total
  end
 
 end
